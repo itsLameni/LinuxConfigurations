@@ -1,0 +1,7 @@
+exec {
+	# '[ -x "$(command -v wlsunset)" ] && wlsunset'
+	'[ -x "$(command -v gentoo-pipewire-launcher)" ] && gentoo-pipewire-launcher'
+	'[ -x "$(command -v dex)" ] && dex -a'
+	'[ -x "$(command -v mako)" ] && mako'
+	'[ -f ~/.local/bin/autoname-workspaces.py ] && ~/.local/bin/autoname-workspaces.py'	
+}

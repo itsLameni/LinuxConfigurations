@@ -1,0 +1,12 @@
+media-libs/mesa X vulkan-overlay opencl d3d9
+media-libs/libglvnd X
+media-video/pipewire bluetooth dbus X extra -ffmpeg flatpak gstreamer jack-client man pipewire-alsa sound-server
+media-sound/pulseaudio -daemon
+media-libs/libepoxy X
+media-libs/opus custom-modes
+media-video/ffmpeg -abi_x86_32 X -openal
+media-libs/libsdl2 X gles2
+media-libs/openal pipewire
+media-video/mpv X
+media-libs/gst-plugins-bad X
+net-wireless/blueman pulseaudio

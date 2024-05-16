@@ -1,0 +1,6 @@
+# required by jetbrainsmono-nerdfont (argument)
+# /var/db/repos/guru/profiles/package.mask:
+# Robert Greener <dev@greener.sh> (2024-04-18)
+# Superceded by media-fonts/nerdfonts[jetbrainsmono]
+# Removal on 2024-05-18
+=media-fonts/jetbrainsmono-nerdfont-3.2.0

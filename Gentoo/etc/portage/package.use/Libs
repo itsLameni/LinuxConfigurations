@@ -1,0 +1,10 @@
+sys-libs/ncurses -gpm
+x11-libs/libxkbcommon X
+x11-libs/gtk+ X aqua
+dev-cpp/gtkmm X
+dev-cpp/cairomm X
+x11-libs/cairo X aqua
+dev-libs/libdbusmenu gtk3
+gui-libs/gtk X gstreamer
+x11-libs/pango X
+net-libs/webkit-gtk keyring gamepad X

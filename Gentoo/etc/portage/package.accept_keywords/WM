@@ -1,0 +1,33 @@
+# required by fuzzel (argument)
+=gui-apps/fuzzel-1.10.2 ~amd64
+# required by qtgreet (argument)
+=gui-apps/qtgreet-2.0.1 ~amd64
+# required by gui-apps/qtgreet-2.0.1::wayland-desktop[qt5]
+# required by qtgreet (argument)
+=gui-dfl/dfl-utils-0.2.0 ~amd64
+# required by gui-apps/qtgreet-2.0.1::wayland-desktop[qt5]
+# required by qtgreet (argument)
+=gui-libs/wayqt-0.2.0 ~amd64
+# required by gui-apps/qtgreet-2.0.1::wayland-desktop[qt5]
+# required by qtgreet (argument)
+=gui-dfl/dfl-login1-0.2.0 ~amd64
+# required by gui-apps/qtgreet-2.0.1::wayland-desktop[qt5]
+# required by qtgreet (argument)
+=gui-dfl/dfl-applications-0.2.0 ~amd64
+# required by gui-apps/qtgreet-2.0.1::wayland-desktop[qt5]
+# required by qtgreet (argument)
+=gui-dfl/dfl-ipc-0.2.0 ~amd64
+# required by grimshot (argument)
+=gui-apps/grimshot-9999 **
+# required by dev-python/i3ipc (argument)
+=dev-python/i3ipc-2.2.1-r1 ~amd64
+# required by dex (argument)
+=x11-misc/dex-0.9.0 ~amd64
+# required by swaylock-effects (argument)
+=gui-apps/swaylock-effects-1.7.0.0 ~amd64
+# required by clipman (argument)
+=gui-apps/clipman-1.6.3 ~amd64
+# required by ReGreet (argument)
+=gui-apps/ReGreet-0.1.1-r5 ~amd64
+# required by gdu (argument)
+=sys-fs/gdu-5.25.0 ~amd64
